@@ -7,8 +7,8 @@ Project of a javascript course with the intuition of training and improving skil
 ### 🚀 Prerequisites
 
 ```
-* VSCode
-* Git
+- VSCode
+- Git
 ```
 
 ## 🛠️ Built with
