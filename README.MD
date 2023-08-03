@@ -2,7 +2,7 @@
 
 ## 📋 Description
 
-Project of a javascript course with the intuition of training and improving skills, first project using javascript as main language.
+Project from a javascript course with the intuition of training and improving skills, first project using javascript as main language.
 
 ### 🚀 Prerequisites
 
